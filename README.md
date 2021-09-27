@@ -31,8 +31,10 @@ My own personal Wiki
 - code .gitignore
 - checka om allting är uppdaterat
 - npm -v, node -v, git --version, heroku -v
+- ladda ner node.js och npm https://nodejs.org/en/
+- ladda ner heroku CLI https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true
 - (ladda ner eller uppdatera efter behov)
-- npm init
+- npm init (skapar package.json)
 - git init
 - git add -A
 - git commit -m "initial commit"
