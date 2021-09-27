@@ -51,7 +51,7 @@ My own personal Wiki
 - skriv kod för att dra igång en lokal NodeJS webbserver (se länkar nedan för inspo)
 - starta med nodemon server.js
 - öppna chrome och F12 och kolla localhost:8080 (eller den port du valt)
-- Laborera med att sätta deader till text/raw vs text/html och se skillnaden via F12 i Chrome
+- Laborera med att sätta header till text/raw vs text/html och se skillnaden via F12 i Chrome
 - skapa en index.html
 - Använd VS Code för att få html5 snyggt på plats snabbt
 - uppdatera server.js med fs modulen och leverera nu index.html filen (se länkar nedan för inspo)
