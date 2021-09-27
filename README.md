@@ -40,6 +40,11 @@ My own personal Wiki
 - git commit -m "initial commit"
 - code .server.js
 - npm install Nodemon -g
+## Länkar för att skapa server.js
+- https://www.w3schools.com/nodejs/met_http_createserver.asp
+- https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTP-server/
+- https://www.w3schools.com/nodejs/nodejs_filesystem.asp
+- https://github.com/herkommer/D210927X1
 ## Lokal utveckling med NodeJS som webbserver
 - Skapa en lokal mapp för dagens uppgift
 - .gitignore för NodeJS
