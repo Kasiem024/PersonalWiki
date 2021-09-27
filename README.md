@@ -38,3 +38,32 @@ My own personal Wiki
 - git commit -m "initial commit"
 - code .server.js
 - npm install Nodemon -g
+## Lokal utveckling med NodeJS som webbserver
+-Skapa en lokal mapp för dagens uppgift
+-.gitignore för NodeJS
+-kolla versioner av node, npm och git
+-npm init (för att skapa en package.json)
+-Visual Code (code .) för att öppna mappen som utvecklingsmiljö i VS Code
+-git init (via cmd i VS Code eller via VS Code Git-menyn)
+-commit "ready to go"
+-npm install nodemon -g (installer node monitor globalt på din dator)
+-skapa en server.js fil
+-skriv kod för att dra igång en lokal NodeJS webbserver (se länkar nedan för inspo)
+-starta med nodemon server.js
+-öppna chrome och F12 och kolla localhost:8080 (eller den port du valt)
+-Laborera med att sätta deader till text/raw vs text/html och se skillnaden via F12 i Chrome
+-skapa en index.html
+-Använd VS Code för att få html5 snyggt på plats snabbt
+-uppdatera server.js med fs modulen och leverera nu index.html filen (se länkar nedan för inspo)
+## Deploy (driftsätt) till Heroku
+-Skapa ett konto på Heroku 
+-Installera Heroku CLI lokalt via Heroku (se länk nedan)
+-Öppna mappen för programmet i CMD och kör en heroku login 
+-se till att git status är ok (annars add och commit)
+-skapa en Heroku app med heroku create
+-provkör med heroku local web
+-se till att uppdatera package.json med "config "node" = "14.x" och att "start" är server.js (se exempel nedan)
+-checka git remote -v (att herokus git länkar  visas)
+-git push heroku main (kan ta lite tid...)
+-heroku open
+-Om det strular, kolla heroku logs --tail (alt direkt på heroku-sidan)
