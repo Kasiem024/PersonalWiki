@@ -78,3 +78,5 @@ My own personal Wiki
 - git init
 - git remote url
 - git pull origin master
+## Data
+- (localdb)\mssqllocaldb
