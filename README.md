@@ -74,9 +74,5 @@ My own personal Wiki
 - git push heroku main (kan ta lite tid...)
 - heroku open
 - Om det strular, kolla heroku logs --tail (alt direkt på heroku-sidan)
-## Pull
-- git init
-- git remote url
-- git pull origin master
 ## Data
 - (localdb)\mssqllocaldb
