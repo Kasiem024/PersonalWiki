@@ -76,3 +76,9 @@ My own personal Wiki
 - Om det strular, kolla heroku logs --tail (alt direkt på heroku-sidan)
 ## Data
 - (localdb)\mssqllocaldb
+
+## ASPCore
+[Länk till guiden](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio-code)
+
+I CMD: 
+dotnet dev-certs https --trust
