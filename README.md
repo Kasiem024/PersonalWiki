@@ -82,3 +82,6 @@ My own personal Wiki
 
 I CMD: 
 dotnet dev-certs https --trust
+
+##DOM
+https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/
