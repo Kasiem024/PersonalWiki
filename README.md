@@ -83,5 +83,8 @@ My own personal Wiki
 I CMD: 
 dotnet dev-certs https --trust
 
-##DOM
+## DOM
 https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/
+
+## Git
+For squashin commits https://www.internalpointers.com/post/squash-commits-into-one-git
