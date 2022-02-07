@@ -87,4 +87,13 @@ dotnet dev-certs https --trust
 https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/
 
 ## Git
-For squashin commits https://www.internalpointers.com/post/squash-commits-into-one-git
+For squashing commits https://www.internalpointers.com/post/squash-commits-into-one-git
+
+## TailWind CSS
+[Offical Docs](https://tailwindcss.com/docs/installation)
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss -i ./input.css -o ./output.css --watch
+
+CDN Link https://cdn.tailwindcss.com
+
+[All Classes](https://tailwind.build/classes)
