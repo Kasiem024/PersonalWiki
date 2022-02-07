@@ -91,7 +91,9 @@ For squashing commits https://www.internalpointers.com/post/squash-commits-into-
 
 ## TailWind CSS
 [Offical Docs](https://tailwindcss.com/docs/installation)
+
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss -i ./input.css -o ./output.css --watch
 
 CDN Link https://cdn.tailwindcss.com
